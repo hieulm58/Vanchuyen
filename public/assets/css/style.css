@@ -1,0 +1,14 @@
+.form {
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	color: #000000;
+}
+
+form input {
+	margin-bottom: 10px;
+}
+label.error {
+	color: #a94442;
+}
